@@ -1,8 +1,16 @@
-![gradient-1](https://github.com/user-attachments/assets/6501b4e3-e92a-42a5-9fa0-3a442df87e11)
+![github-header](https://github.com/user-attachments/assets/2c20b707-8802-411b-bba5-b44a04be22e7)
 
 ## Hello. 😊
 
-I've been developing for 12 years. Peruse the code here, but know that (1) most of it is very old, and (2) all of it is unclean.
+I've been developing since 2010, and I finally tricked people into paying me for it in 2017. 
+
+Peruse the code here, but know that: 
+
+(1) most of it is very old, 
+
+(2) most of it was written between midnight and 4am, and 
+
+(3) all of it is unclean.
 
 
 
