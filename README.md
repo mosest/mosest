@@ -2,7 +2,7 @@
 
 ## Hello. 😊
 
-I've been developing for 12 years. Peruse the code here, but know that (1) most of it is very old, and (2) all of it is very unclean. <:)
+I've been developing for 12 years. Peruse the code here, but know that (1) most of it is very old, and (2) all of it is very unclean.
 
 
 
