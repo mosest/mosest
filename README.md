@@ -1,4 +1,11 @@
-## Hi there 👋
+![gradient-1](https://github.com/user-attachments/assets/6501b4e3-e92a-42a5-9fa0-3a442df87e11)
+
+## Hello. 😊
+***
+I've been developing for 12 years. Peruse the code here, but know that (1) most of it is very old, and (2) all of it is very unclean. <:)
+
+
+
 
 <!--
 **mosest/mosest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
