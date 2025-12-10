@@ -4,15 +4,20 @@
 
 I'm Tara. Software dev by day, pre-nursing student by night, coffee gremlin by the unholy hours of morning, functionally dead before 11am.
 
-**Ask me about:** my current passion project, which is to migrate away from Gmail and Google Drive in favor of more free cloud space, email privacy, and increased user-side control against spam
-✅ Migrate Gmail -> ProtonMail
-✅ Set up DuckDuckGo alias
-🚧 Set up individual aliases via addy.io
-🚧 Close unused accounts tied to email
-🚧 Set up individual aliases via addy.io
-◻️ Migrate Google Photos -> MEGA
-◻️ Migrate Google Docs -> MEGA
-◻️ Close Gmail accounts forever (scary)
+✨ **Current Passion Project** ✨
+<br>To migrate away from Gmail and Google Drive in favor of more free cloud space, email privacy, and increased user-side control against spam.
+<br>
+<br>✅ Research tools: ProtonMail, Tutanota, DuckDuckGo, Addy.io, SimpleLogin, MEGA
+<br>✅ Migrate Gmail -> ProtonMail
+<br>✅ Set up DuckDuckGo alias
+<br>🚧 Set up individual aliases via addy.io
+<br>🚧 Close unused accounts tied to email
+<br>🚧 Set up individual aliases via addy.io
+<br>◻️ Migrate Google Photos -> MEGA
+<br>◻️ Migrate Google Docs -> MEGA
+<br>◻️ Close Gmail accounts forever (scary)
 
-**Project Wishlist**
-◻️ Migrate mobile to GrapheneOS
+<br>
+
+✨ **Project Wishlist** ✨
+<br>◻️ Migrate mobile to GrapheneOS
