@@ -15,7 +15,7 @@ I'm trying to migrate away from Gmail and Google Drive in favor of more free clo
 <br>🚧 Close unused accounts tied to email
 <br>◻️ Migrate Google Photos → MEGA
 <br>◻️ Migrate Google Docs → MEGA
-<br>◻️ Close Gmail accounts forever (scary)
+<br>◻️ Close all non-primary Gmail accounts (scary)
 
 ## ✨ Project Wishlist
 ◻️ Migrate mobile to GrapheneOS
